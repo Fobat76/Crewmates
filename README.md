@@ -27,7 +27,7 @@ Time spent: **3** hours spent in total
 
 
 ## GIF created with ScreenToGif
-![]()
+![](https://github.com/Fobat76/Crewmates/blob/main/PokemonDemo.gif)
 
 ### Describe any challenges encountered while building the app.
 - Supabase (Forgot to change table settings)
