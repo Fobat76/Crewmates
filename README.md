@@ -1,4 +1,4 @@
-# * Crewmates*
+# *Crewmates*
 
 Submitted by: **Devin Chen**
 
